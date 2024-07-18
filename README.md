@@ -1,5 +1,7 @@
 The Task conatains a Quote of the day Project 
-Getting Started
+
+
+#Getting Started
 This guide will help you set up and run the Quote of the Day project on your local machine. The project consists of a backend server that provides random quotes and allows searching for quotes by author.
 
 Prerequisites
